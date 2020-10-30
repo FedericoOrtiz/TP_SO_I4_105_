@@ -2,3 +2,8 @@ A- El fondo quedó de color Azul
 B- El fondo quedó de color Amarillo
 C- El fondo quedó de color Azul
 D- Quedó el Favicon de Beta
+F- Solo un integrante tuvo problemas al hacer el push
+G- No surgio ningun inconveniente ademas del push
+H- La solucion al error fue realizar el mismo proceso
+I- Si utilizamos el push -f nos devuelve un mensaje que dice "everything up to date"
+J- Lo que se debe hacer es poner <p1>, <p2>, etc hasta que se agreguen todos los nombres 
