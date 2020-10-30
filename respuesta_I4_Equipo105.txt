@@ -1,0 +1,4 @@
+A- El fondo quedó de color Azul
+B- El fondo quedó de color Amarillo
+C- El fondo quedó de color Azul
+D- Quedó el Favicon de Beta
